@@ -1,5 +1,5 @@
 # Data Science & Analytics Portfolio
-This repository contains projects and visualizations created from the Data Science & Analytics program with San Diego State University.
+This repository contains projects and visualizations created from the Data Science & Analytics program with SDSU.
 
 ## SQL
 
